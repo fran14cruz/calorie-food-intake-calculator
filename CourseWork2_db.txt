@@ -1,0 +1,320 @@
+
+
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Almonds',579,49.93,21.55,21.15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Apples Dried',243,0.32,65.89,0.93);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Apples',52,0.17,13.81,0.26);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Apricots Dried',241,0.51,62.64,3.39);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Apricots',48,0.39,11.12,1.4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Artichokes',47,0.15,10.51,3.27);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Asparagus',20,0.12,3.88,2.2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Avocado',160,14.66,8.53,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Bananas',89,0.33,22.84,1.09);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Bean Sprouts',67,0.7,13.05,6.15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Beans Raw',31,0.22,6.97,1.83);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Beef Steak',165,8.29,0,21.22);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Beet',43,0.17,9.56,1.61);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Blackberries',52,1.07,9.84,0.84);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Blue Cheese',100,8,1,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Blueberries',80,1,20,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Brown Bread',95,1,21,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Brazil Nuts',185,19,4,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Broccoli',40,1,8,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Brownies',95,6,11,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Brussels Sprouts',43,0.3,8.95,3.38);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Buckwheat',340,1,78,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Butter',810,92,0,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Buttermilk',465,7,59,41);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cabbage',20,0,4,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cake',350,1,76,7);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Caramels Chocolate',115,3,22,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Carrots',30,0,7,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cashew Nuts',165,13,9,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Catsup',15,0,4,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cauliflower',25,0,5,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Celery',10,1,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cheddar Cheese',70,6,0,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cheeseburger',525,31,40,30);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cheesecake',3350,213,317,60);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cherries',50,1,11,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chicken Liver',30,1,0,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chicken Noodle Soup',75,2,9,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chicken Fried',365,18,13,35);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chicken Roasted',140,3,0,27);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chickpeas Cooked',270,4,45,15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Chocolate Chip Cookies',180,9,28,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cinnamon',5,0,2,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cocoa Powder',100,1,22,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Coconut Dried',470,33,44,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Coconut Raw',160,15,7,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Coffee Brewed',0,0,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Coffee Instant',0,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Coffeecake',1385,41,225,27);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cola Regular',160,0,41,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Corn Chips',155,9,16,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Corn Flakes',110,0,24,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Corn Oil',1925,218,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cottage Cheese',235,10,6,28);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cream Cheese',100,10,1,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Croissants',235,12,27,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Cucumber',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Curry Powder',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Dates',230,0,61,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES ('Doughnuts',210,12,24,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Eggplant',25,0,6,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Eggs Fried',90,7,1,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Eggs Cooked',75,5,1,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Eng Muffin',360,18,31,18);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Evaporated Milk',200,1,29,19);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Feta Cheese',75,6,1,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Fig',210,4,42,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Figs Dried',475,2,122,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Fish Sandwich',470,27,41,18);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Fish Sticks',70,3,4,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('French Bread',100,1,18,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Garlic Powder',10,0,2,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Gelatin Dessert',70,0,17,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Gingerbread Cake',1575,39,291,18);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Grapefruit',40,0,10,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Grapes',40,0,10,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Ground Beef',295,21.83,0,23.05);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Hamburger',445,21,38,25);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Honey',65,0,17,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Ice Cream',375,23,38,7);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Italian Bread',85,0,17,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Jellies',40,0,10,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Jelly Beans',105,0,26,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Kale',40,1,7,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Kiwi',45,0,11,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Lamb Rib Roasted',130,7,0,15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Lemons',15,0,5,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Lentils Cooked',215,1,38,16);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Lettuce',20,0,4,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Lime Juice',65,0,22,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Macadamia Nuts',205,22,4,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mangos',135,1,35,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Margarine',75,9,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Marshmallows',90,0,23,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mayonnaise',100,11,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Miso',470,13,65,29);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mixed Grain Bread',1165,17,212,45);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mozzarella Cheese',80,6,1,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mushrooms',20,0,3,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Mustard',20,0,3,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Granola',125,5,19,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Nectarines',65,1,16,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Oatmeal Bread',1145,20,212,38);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Oatmeal',145,2,25,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Olive Oil',125,14,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Olives green',15,2,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Onions',55,0,12,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Oranges',60,0,15,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Oregano',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Oysters',160,4,8,20);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pancakes',55,2,6,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Papayas',65,0,17,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Paprika',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Parmesan Cheese',455,30,4,42);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Parsley',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peaches Dried',380,1,98,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peaches Raw',35,0,10,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peanut Butter',95,8,3,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peanut Oil',125,14,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peanuts',165,14,5,8);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pears',85,1,21,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peas',81,0.4,14.4,5.42);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pecans',691,71.97,13.86,9.17);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pepper Black',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Peppers Sweet',20,0,4,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pineapple',75,1,19,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pistachio Nuts',165,14,7,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pita Bread',165,1,33,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pizza',290,9,39,15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Plums',35,0,9,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Popcorn',30,0,6,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Potato Chips',105,7,10,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Potatoes Baked',220,0,51,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Potatoes French',110,4,17,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pretzels',10,0,2,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Pumpkin Cooked',50,0,12,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Radishes',5,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Raisins',40,0,11,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Raspberries',60,1,14,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Red Kidney Beans',230,1,42,15);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Rice Brown',230,1,50,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Rice White',225,0,50,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Ricotta Cheese',340,19,13,28);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Rye Bread',1190,17,218,38);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Safflower Oil',1925,218,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Salami',85,7,1,5);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Salmon Baked',140,5,0,21);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Salmon Smoked',150,8,0,18);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Salt',0,0,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sardines',175,9,0,20);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Seaweed Raw',10,0,3,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Seaweed Dried',80,2,7,16);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sesame Seeds',45,4,1,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Shrimp',100,1,1,21);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sour Cream',495,48,10,7);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Soy Sauce',10,0,2,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Soybean Oil',1925,218,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Spaghetti',190,1,39,7);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Spinach',10,0,2,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Squash',35,1,8,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Strawberries',45,1,10,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sugar Cookie',235,12,31,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sugar Brown',820,0,212,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sugar White',25,0,6,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sunflower Oil',1925,218,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sunflower Seeds',160,14,5,6);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Sweet Chocolate',150,10,16,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tahini',90,8,3,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tangerines',35,0,9,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tea',0,0,0,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tofu',85,5,3,9);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tomatoes Canned',50,1,10,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tomatoes Raw',25,0,5,1);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tortillas Corn',65,1,13,2);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Trout Broiled',175,9,0,21);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tuna Salad',375,19,19,33);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Tuna Canned',135,1,0,30);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Turkey Ham',75,3,0,11);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Turkey Loaf',45,1,0,10);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Vinegar Cider',0,0,1,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Waffles',245,13,26,7);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Walnuts',180,18,5,4);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Watermelon',155,2,35,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Wheat Bread',1160,19,213,43);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('White Bread',1210,18,222,38);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Whole Wheat Bread',1110,20,206,44);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Wine',80,0,3,0);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Yeast',20,0,3,3);
+INSERT INTO FoodCalories2 (Food, kCal, Fat, Carbo, Protein) VALUES 
+('Yogurt',140,7,11,8);
